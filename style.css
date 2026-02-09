@@ -13,43 +13,45 @@ body {
 
 
 .photo1 {
-  width: 100%;
-    max-width: 100%;
-    height: auto;
-    object-fit:cover;
-    border-raduis: 15px;
+   width: 25rem ; 
+   height: 15rem;
+   border-radius: 15px;
+   box-shadow: 0 0 15px;
+   margin-bottom: 5%;
+   margin-top: 5%;
 }
 
 .photo2 {
-   width: 100%;
-    max-width: 100%;
-    height: auto;
-    object-fit:cover;
-    border-raduis: 15px;
+   width: 25rem ; 
+   height: 15rem; 
+   border-radius: 15px;
+   box-shadow: 0 0 15px;
+   margin-bottom: 5%;
 }
 
 .photo3 {
-   width: 100%;
-    max-width: 100%;
-    height: auto;
-    object-fit:cover;
-    border-raduis: 15px;
+   width: 25rem ; 
+   height: 15rem;
+   border-radius: 15px;
+   box-shadow: 0 0 15px;
+   margin-bottom: 5%;
 }   
 
 .photo4 {
-  width: 100%;
-    max-width: 100%;
-    height: auto;
-    object-fit:cover;
-    border-raduis: 15px;
+   width: 25rem ; 
+   height: 15rem;
+   border-radius: 15px;
+   box-shadow: 0 0 15px;
+   margin-bottom: 10px;
+   margin-bottom: 5%;
 }
 
 .photo5 {
-   width: 100%;
-    max-width: 100%;
-    height: auto;
-    object-fit:cover;
-    border-raduis: 15px;
+   width: 25rem ; 
+   height: 15rem;
+   border-radius: 15px;
+   box-shadow: 0 0 15px;
+   margin-bottom: 5%;
 }
 
 h1 {
@@ -107,6 +109,7 @@ footer {
     }
 
 }
+
 
 
 
