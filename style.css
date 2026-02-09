@@ -19,7 +19,6 @@ body {
    box-shadow: 0 0 15px;
    margin-bottom: 5%;
    margin-top: 5%;
-    object-fit: cover;
 }
 
 .photo2 {
@@ -28,7 +27,6 @@ body {
    border-radius: 15px;
    box-shadow: 0 0 15px;
    margin-bottom: 5%;
-    object-fit: cover;
 }
 
 .photo3 {
@@ -37,7 +35,6 @@ body {
    border-radius: 15px;
    box-shadow: 0 0 15px;
    margin-bottom: 5%;
-    object-fit: cover;
 }   
 
 .photo4 {
@@ -46,7 +43,6 @@ body {
    border-radius: 15px;
    box-shadow: 0 0 15px;
    margin-bottom: 5%;
-    object-fit: cover;
 }
 
 .photo5 {
@@ -55,7 +51,6 @@ body {
    border-radius: 15px;
    box-shadow: 0 0 15px;
    margin-bottom: 5%;
-    object-fit: cover;
 }
 
 h1 {
@@ -113,6 +108,7 @@ footer {
     }
 
 }
+
 
 
 
