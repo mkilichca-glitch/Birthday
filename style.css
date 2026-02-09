@@ -11,13 +11,13 @@ body {
     background: radial-gradient (circle at top, #1a1a22 0%, #0f0f14 60%);
 }
 
+
 .photo1 {
-   width: 15rem; 
-   height: 10rem;
+   width: 30rem; 
+   height: 20rem; 
    border-radius: 15px;
    box-shadow: 0 0 15px;
    margin-bottom: 5%;
-   margin-top: 5%;
 }
 
 .photo2 {
@@ -109,6 +109,7 @@ footer {
     }
 
 }
+
 
 
 
