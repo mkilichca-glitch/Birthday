@@ -3,6 +3,14 @@
     padding: 0%;
 }
 
+body {
+    background-color: #0f0f14;
+    color: #f5f5f5;
+    font-family: "Playfair Display" , serif;
+    line-height: 1.6;
+    background: radial-gradient(circle at top, #1a1a22 0%, #0f0f14 60%);
+}
+
 }
 .photo1 {
    width: 30rem ; 
@@ -45,14 +53,6 @@
    box-shadow: 0 0 15px;
    margin-bottom: 5%; 
 
-}
-
-body {
-    background-color: #0f0f14;
-    color: #f5f5f5;
-    font-family: "Playfair Display" , serif;
-    line-height: 1.6;
-    background: radial-gradient(circle at top, #1a1a22 0%, #0f0f14 60%);
 }
 
 h1 {
@@ -110,4 +110,5 @@ footer {
     }
 
 }
+
 
